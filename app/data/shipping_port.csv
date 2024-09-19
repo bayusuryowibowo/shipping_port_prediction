@@ -1,0 +1,401 @@
+Product type,Order quantities,Shipping carriers,Shipping costs,Origin,Inspection results,Defect rates,Routes,ETA
+cosmetics,30,Carrier B,10.22981625,Kolkata,Pending,1.907665734,Route B,Delay
+skincare,51,Carrier B,8.978750756,Kolkata,Pending,0.380573587,Route A,On time
+cosmetics,88,Carrier C,5.58818999,Delhi,Pass,0.541154098,Route C,On time
+skincare,76,Carrier C,8.674211211,Kolkata,Pass,1.727313928,Route B,On time
+skincare,38,Carrier B,5.773263744,Chennai,Fail,0.045302262,Route A,On time
+haircare,11,Carrier C,7.095833157,Mumbai,Fail,1.698112541,Route B,On time
+skincare,30,Carrier A,5.563503779,Mumbai,Fail,2.864667838,Route B,Delay
+cosmetics,77,Carrier A,6.59961416,Bangalore,Pending,3.213329607,Route B,Delay
+cosmetics,62,Carrier C,7.406750953,Mumbai,Fail,2.864667838,Route B,Delay
+cosmetics,82,Carrier A,6.247860915,Delhi,Fail,4.754800805,Route B,Delay
+skincare,60,Carrier A,4.523943124,Mumbai,Pending,0.226410361,Route B,Delay
+skincare,51,Carrier A,9.837283061,Bangalore,Pending,1.63107423,Route B,Delay
+haircare,69,Carrier C,7.306432059,Chennai,Fail,4.165781795,Route A,Delay
+haircare,49,Carrier C,2.532073681,Bangalore,Fail,1.983467872,Route A,On time
+skincare,17,Carrier A,1.020487571,Chennai,Pending,2.989000007,Route C,Delay
+skincare,37,Carrier A,9.716574771,Chennai,Pass,2.030069089,Route C,Delay
+haircare,6,Carrier B,4.070955837,Chennai,Pending,3.648610593,Route B,On time
+haircare,99,Carrier B,3.256572139,Mumbai,Pending,0.226410361,Route B,Delay
+haircare,59,Carrier B,1.311023756,Chennai,Fail,0.346027291,Route B,Delay
+haircare,38,Carrier B,9.254528315,Kolkata,Pending,0.965394705,Route C,Delay
+haircare,80,Carrier A,8.381615625,Chennai,Pass,4.843456577,Route B,Delay
+cosmetics,32,Carrier A,3.224857601,Kolkata,Pending,1.342291563,Route A,On time
+cosmetics,85,Carrier C,5.28818999,Delhi,Pass,0.541154098,Route C,On time
+skincare,81,Carrier B,2.339770189,Kolkata,Pending,0.100682852,Route B,Delay
+cosmetics,36,Carrier C,7.292701389,Mumbai,Pending,2.709862691,Route B,On time
+cosmetics,77,Carrier B,7.242945942,Delhi,Pass,1.463607498,Route B,On time
+haircare,9,Carrier C,7.095833157,Mumbai,Fail,1.698112541,Route B,On time
+cosmetics,22,Carrier B,7.294722597,Mumbai,Pass,1.173755495,Route B,Delay
+cosmetics,66,Carrier C,8.249168705,Chennai,Fail,1.374429,Route B,On time
+skincare,65,Carrier B,2.423039723,Bangalore,Pass,2.264405761,Route B,On time
+skincare,39,Carrier C,7.22959514,Kolkata,Pending,4.213269431,Route A,On time
+skincare,59,Carrier C,2.773897761,Bangalore,Pending,2.180037452,Route A,Delay
+haircare,51,Carrier B,6.807548621,Mumbai,Pending,3.872047681,Route A,Delay
+skincare,15,Carrier A,2.217142729,Mumbai,Pending,0.613326899,Route B,On time
+haircare,84,Carrier B,8.055479262,Chennai,Pending,3.844614479,Route B,Delay
+skincare,19,Carrier B,1.75530531,Mumbai,Pass,2.051512931,Route A,On time
+skincare,74,Carrier C,9.447811545,Mumbai,Pass,0.131955444,Route C,On time
+skincare,78,Carrier C,4.885353468,Delhi,Fail,0.159486315,Route C,On time
+haircare,2,Carrier B,4.071955837,Delhi,Pass,1.463607498,Route B,On time
+haircare,45,Carrier B,6.808548621,Bangalore,Pass,2.119319737,Route A,Delay
+haircare,3,Carrier B,4.950839578,Bangalore,Fail,0.773006134,Route A,Delay
+skincare,86,Carrier C,2.074429714,Mumbai,Pass,1.173755495,Route B,Delay
+skincare,40,Carrier B,2.680660965,Kolkata,Fail,4.911095955,Route C,On time
+skincare,24,Carrier A,1.832655274,Kolkata,Pending,2.610288085,Route A,Delay
+skincare,41,Carrier C,2.833184679,Chennai,Fail,2.849662199,Route B,On time
+cosmetics,78,Carrier A,6.248860915,Chennai,Pass,4.231416574,Route B,Delay
+cosmetics,40,Carrier C,7.291701389,Mumbai,Pass,1.874001404,Route C,On time
+cosmetics,88,Carrier C,3.885418958,Chennai,Fail,0.102020755,Route C,On time
+skincare,83,Carrier B,4.491324586,Bangalore,Pass,1.012563089,Route A,On time
+haircare,51,Carrier A,6.576803798,Kolkata,Fail,2.161253748,Route B,On time
+skincare,62,Carrier C,2.029568564,Chennai,Pass,4.843456577,Route B,Delay
+skincare,76,Carrier C,8.674211211,Chennai,Pending,2.908122169,Route A,Delay
+skincare,64,Carrier A,8.879334651,Kolkata,Fail,4.367470538,Route A,On time
+skincare,57,Carrier C,7.526248327,Bangalore,Fail,4.939255289,Route A,Delay
+skincare,48,Carrier A,9.537283061,Bangalore,Pass,1.219382224,Route B,On time
+haircare,54,Carrier B,8.767049771,Mumbai,Pending,4.096881332,Route C,Delay
+cosmetics,4,Carrier B,6.338883769,Mumbai,Pending,4.137877049,Route C,On time
+cosmetics,11,Carrier C,3.405733857,Mumbai,Pending,2.709862691,Route B,On time
+cosmetics,25,Carrier A,2.925857601,Kolkata,Fail,4.911095955,Route C,On time
+skincare,11,Carrier B,8.63105218,Mumbai,Pending,2.122471619,Route C,On time
+haircare,81,Carrier B,3.695021268,Bangalore,Pass,2.119319737,Route A,Delay
+skincare,21,Carrier A,1.019487571,Chennai,Pass,0.646604559,Route B,On time
+cosmetics,80,Carrier A,6.89961416,Bangalore,Pending,3.213329607,Route B,Delay
+cosmetics,29,Carrier B,7.593722597,Kolkata,Fail,0.447194015,Route A,On time
+cosmetics,7,Carrier B,6.037883769,Mumbai,Pending,4.854068026,Route B,Delay
+haircare,29,Carrier B,8.93033887,Mumbai,Pending,1.21088213,Route A,On time
+haircare,51,Carrier B,6.807548621,Bangalore,Pass,2.119319737,Route A,Delay
+cosmetics,98,Carrier C,5.158270503,Chennai,Fail,3.541046012,Route A,On time
+haircare,84,Carrier B,8.055479262,Mumbai,Pending,4.580592619,Route C,On time
+cosmetics,59,Carrier C,7.707750953,Mumbai,Fail,2.864667838,Route B,Delay
+skincare,25,Carrier B,1.75430531,Mumbai,Pass,2.051512931,Route A,On time
+haircare,68,Carrier B,4.444098864,Bangalore,Fail,2.779193512,Route A,On time
+cosmetics,4,Carrier B,6.338883769,Chennai,Pending,0.018607568,Route C,Delay
+skincare,83,Carrier C,1.774429714,Mumbai,Pass,1.173755495,Route B,Delay
+haircare,5,Carrier C,9.742291689,Mumbai,Pending,4.854068026,Route B,Delay
+skincare,79,Carrier C,1.775429714,Mumbai,Pass,1.173755495,Route B,Delay
+skincare,73,Carrier A,9.178334651,Chennai,Pass,4.231416574,Route B,Delay
+skincare,40,Carrier A,4.939438565,Mumbai,Pending,4.580592619,Route C,On time
+skincare,76,Carrier B,4.192324586,Bangalore,Pass,1.012563089,Route A,On time
+skincare,55,Carrier C,1.730568564,Kolkata,Fail,4.746648621,Route A,Delay
+haircare,5,Carrier C,7.096833157,Kolkata,Pending,3.797231217,Route B,Delay
+skincare,91,Carrier A,5.043635883,Chennai,Fail,3.646450865,Route C,Delay
+skincare,74,Carrier B,4.192324586,Bangalore,Pass,1.012563089,Route A,On time
+haircare,54,Carrier B,9.460558535,Delhi,Pending,2.51117483,Route A,Delay
+skincare,80,Carrier B,4.191324586,Bangalore,Pass,1.012563089,Route A,On time
+cosmetics,11,Carrier C,3.405733857,Kolkata,Pass,1.727313928,Route B,On time
+haircare,60,Carrier B,7.080946626,Kolkata,Pass,3.055141818,Route B,Delay
+skincare,72,Carrier A,4.708181874,Mumbai,Pending,4.137877049,Route C,On time
+skincare,44,Carrier A,9.538283061,Bangalore,Pending,1.63107423,Route B,Delay
+cosmetics,58,Carrier C,7.407750953,Mumbai,Fail,2.864667838,Route B,Delay
+skincare,50,Carrier B,1.014486566,Kolkata,Pending,1.907665734,Route B,Delay
+skincare,27,Carrier B,9.70528679,Kolkata,Pending,1.362387989,Route A,On time
+haircare,17,Carrier B,6.797325364,Bangalore,Pending,0.165871627,Route C,On time
+cosmetics,68,Carrier C,7.578449657,Chennai,Fail,4.620546065,Route A,On time
+cosmetics,23,Carrier B,9.930816245,Kolkata,Pending,1.907665734,Route B,Delay
+haircare,96,Carrier B,2.956572139,Mumbai,Pending,0.226410361,Route B,Delay
+skincare,21,Carrier A,1.532655274,Kolkata,Pending,2.610288085,Route A,Delay
+skincare,86,Carrier A,7.466645291,Chennai,Pending,3.844614479,Route B,Delay
+skincare,57,Carrier B,1.313486566,Delhi,Pending,1.410347576,Route B,On time
+skincare,50,Carrier C,6.581541348,Bangalore,Pass,2.119319737,Route A,Delay
+haircare,22,Carrier B,8.63133887,Mumbai,Pending,1.21088213,Route A,On time
+cosmetics,23,Carrier B,7.594722597,Kolkata,Fail,0.447194015,Route A,On time
+cosmetics,85,Carrier B,7.471514084,Delhi,Pending,0.626001858,Route B,On time
+haircare,61,Carrier B,4.305103471,Kolkata,Pass,2.478771976,Route B,Delay
+cosmetics,72,Carrier C,7.577449657,Bangalore,Pending,0.165871627,Route C,On time
+cosmetics,5,Carrier C,2.506621033,Kolkata,Pending,0.021169821,Route A,Delay
+cosmetics,26,Carrier A,3.225857601,Kolkata,Pending,1.342291563,Route A,On time
+haircare,20,Carrier B,6.496325364,Bangalore,Pending,0.165871627,Route C,On time
+haircare,52,Carrier C,2.231073681,Kolkata,Pending,3.797231217,Route B,Delay
+haircare,5,Carrier C,10.04129169,Bangalore,Pending,3.691310293,Route A,Delay
+haircare,55,Carrier C,2.531073681,Kolkata,Pending,3.797231217,Route B,Delay
+skincare,69,Carrier C,4.682368158,Mumbai,Fail,2.853090617,Route A,Delay
+skincare,60,Carrier C,6.600104901,Mumbai,Pass,1.874001404,Route C,On time
+skincare,88,Carrier C,2.074429714,Mumbai,Pass,1.173755495,Route B,Delay
+cosmetics,88,Carrier A,4.101253133,Mumbai,Pending,0.722204402,Route A,Delay
+cosmetics,14,Carrier B,2.648338784,Bangalore,Fail,0.398177187,Route C,Delay
+haircare,83,Carrier A,1.32627401,Kolkata,Fail,2.161253748,Route B,On time
+skincare,90,Carrier A,4.743635883,Kolkata,Pending,2.231939111,Route A,On time
+haircare,46,Carrier C,4.339224714,Kolkata,Pending,2.231939111,Route A,On time
+skincare,49,Carrier B,2.979660965,Chennai,Pending,2.989000007,Route C,Delay
+haircare,88,Carrier A,1.62527401,Kolkata,Fail,2.161253748,Route B,On time
+haircare,4,Carrier A,7.904845611,Kolkata,Pending,0.100682852,Route B,Delay
+cosmetics,81,Carrier C,3.586418958,Kolkata,Pending,0.100682852,Route B,Delay
+haircare,47,Carrier B,6.808548621,Bangalore,Pass,2.119319737,Route A,Delay
+skincare,72,Carrier B,2.722039723,Bangalore,Pass,2.264405761,Route B,On time
+skincare,54,Carrier B,1.013486566,Delhi,Pending,1.410347576,Route B,On time
+cosmetics,84,Carrier A,6.247860915,Delhi,Fail,4.754800805,Route B,Delay
+skincare,29,Carrier B,9.70528679,Kolkata,Pending,1.362387989,Route A,On time
+haircare,87,Carrier B,3.694021268,Mumbai,Pending,0.372304768,Route A,On time
+haircare,66,Carrier B,4.605103471,Kolkata,Pass,2.478771976,Route B,Delay
+skincare,50,Carrier B,1.014486566,Delhi,Pending,0.626001858,Route B,On time
+skincare,40,Carrier A,10.01657477,Mumbai,Pending,4.854068026,Route B,Delay
+skincare,54,Carrier C,6.580541348,Kolkata,Fail,4.911095955,Route C,On time
+cosmetics,26,Carrier B,7.293722597,Kolkata,Pass,3.055141818,Route B,Delay
+skincare,76,Carrier C,9.447811545,Mumbai,Pass,0.131955444,Route C,On time
+skincare,63,Carrier A,4.823943124,Kolkata,Pending,0.021169821,Route A,Delay
+haircare,66,Carrier B,4.444098864,Bangalore,Fail,2.779193512,Route A,On time
+cosmetics,82,Carrier C,5.58918999,Delhi,Pass,0.541154098,Route C,On time
+skincare,53,Carrier C,7.527248327,Bangalore,Fail,4.939255289,Route A,Delay
+cosmetics,85,Carrier A,3.801253133,Mumbai,Pending,0.722204402,Route A,Delay
+skincare,27,Carrier B,1.409801095,Chennai,Pending,2.908122169,Route A,Delay
+cosmetics,20,Carrier B,9.899140508,Bangalore,Pending,0.165871627,Route C,On time
+haircare,60,Carrier B,7.080946626,Mumbai,Pass,2.051512931,Route A,On time
+skincare,35,Carrier C,7.23059514,Mumbai,Pending,4.096881332,Route C,Delay
+haircare,52,Carrier B,5.215155009,Chennai,Pass,3.219604612,Route A,Delay
+skincare,13,Carrier A,2.757933528,Bangalore,Pending,2.078750608,Route A,On time
+skincare,17,Carrier A,1.533655274,Kolkata,Pending,0.380573587,Route A,On time
+cosmetics,85,Carrier C,3.585418958,Chennai,Fail,0.102020755,Route C,On time
+haircare,49,Carrier C,2.532073681,Kolkata,Pending,3.797231217,Route B,Delay
+haircare,39,Carrier C,9.330340423,Kolkata,Fail,4.367470538,Route A,On time
+cosmetics,91,Carrier B,9.535931437,Mumbai,Pending,0.613326899,Route B,On time
+skincare,58,Carrier C,3.880763303,Kolkata,Pending,1.000910619,Route A,On time
+skincare,97,Carrier A,5.042635883,Chennai,Fail,3.646450865,Route C,Delay
+haircare,85,Carrier B,3.694021268,Mumbai,Pending,0.372304768,Route A,On time
+skincare,41,Carrier B,6.073263744,Chennai,Fail,0.045302262,Route A,On time
+haircare,81,Carrier A,1.32627401,Kolkata,Fail,2.161253748,Route B,On time
+skincare,62,Carrier C,2.029568564,Kolkata,Fail,4.746648621,Route A,Delay
+skincare,31,Carrier A,5.863503779,Chennai,Fail,3.693737788,Route B,Delay
+skincare,79,Carrier A,7.167645291,Chennai,Pending,3.844614479,Route B,Delay
+haircare,91,Carrier B,8.354479262,Mumbai,Pending,4.580592619,Route C,On time
+haircare,59,Carrier A,9.568648921,Chennai,Pending,3.844614479,Route B,Delay
+cosmetics,72,Carrier C,7.577449657,Delhi,Fail,2.96262632,Route A,On time
+cosmetics,15,Carrier C,3.404733857,Mumbai,Pending,2.709862691,Route B,On time
+skincare,75,Carrier C,4.681368158,Mumbai,Fail,2.853090617,Route A,Delay
+skincare,56,Carrier A,3.890547916,Delhi,Fail,3.145579523,Route A,On time
+haircare,48,Carrier C,2.232073681,Bangalore,Fail,0.773006134,Route A,Delay
+skincare,75,Carrier B,2.340770189,Kolkata,Pending,0.100682852,Route B,Delay
+cosmetics,26,Carrier B,7.293722597,Kolkata,Fail,0.447194015,Route A,On time
+skincare,96,Carrier B,7.674430708,Bangalore,Pass,1.219382224,Route B,On time
+cosmetics,26,Carrier A,9.228190317,Bangalore,Pending,2.078750608,Route A,On time
+haircare,7,Carrier A,5.53865465,Delhi,Fail,0.396612724,Route A,On time
+haircare,14,Carrier A,5.314364955,Delhi,Fail,4.548919659,Route B,Delay
+haircare,48,Carrier B,9.461558535,Kolkata,Fail,4.746648621,Route A,Delay
+skincare,54,Carrier C,3.881763303,Kolkata,Pending,1.000910619,Route A,On time
+skincare,58,Carrier A,3.890547916,Delhi,Fail,3.145579523,Route A,On time
+skincare,56,Carrier A,3.890547916,Kolkata,Pending,1.000910619,Route A,On time
+skincare,65,Carrier A,9.179334651,Chennai,Pass,4.231416574,Route B,Delay
+haircare,62,Carrier B,4.445098864,Bangalore,Fail,2.779193512,Route A,On time
+skincare,83,Carrier A,7.166645291,Bangalore,Pass,1.830575599,Route C,Delay
+skincare,22,Carrier B,1.45430531,Mumbai,Pass,2.051512931,Route A,On time
+skincare,28,Carrier B,2.107951267,Delhi,Fail,3.805533379,Route C,Delay
+haircare,12,Carrier C,7.395833157,Bangalore,Pass,1.012563089,Route A,On time
+cosmetics,10,Carrier B,4.469500026,Mumbai,Pass,0.333431825,Route B,On time
+skincare,52,Carrier C,2.474897761,Mumbai,Pending,1.21088213,Route A,On time
+skincare,59,Carrier A,4.190547916,Delhi,Fail,3.145579523,Route A,On time
+skincare,49,Carrier A,5.238438565,Delhi,Fail,1.73037472,Route B,On time
+cosmetics,45,Carrier C,7.591701389,Mumbai,Pass,1.874001404,Route C,On time
+haircare,32,Carrier C,9.031340423,Kolkata,Fail,4.367470538,Route A,On time
+cosmetics,7,Carrier B,2.349338784,Bangalore,Fail,0.398177187,Route C,Delay
+skincare,83,Carrier C,8.973211211,Kolkata,Pass,1.727313928,Route B,On time
+cosmetics,88,Carrier B,7.771514084,Delhi,Pending,0.626001858,Route B,On time
+haircare,35,Carrier B,8.954528315,Kolkata,Pending,0.965394705,Route C,Delay
+haircare,52,Carrier A,4.783000558,Bangalore,Pending,1.772951172,Route A,On time
+skincare,78,Carrier B,4.191324586,Bangalore,Pass,1.012563089,Route A,On time
+cosmetics,63,Carrier B,8.101973145,Mumbai,Pass,2.051512931,Route A,On time
+haircare,31,Carrier B,8.93033887,Mumbai,Pending,1.21088213,Route A,On time
+haircare,8,Carrier B,4.066277502,Delhi,Pending,2.547547122,Route B,Delay
+haircare,58,Carrier A,6.875803798,Chennai,Fail,3.693737788,Route B,Delay
+skincare,44,Carrier A,4.938438565,Delhi,Fail,1.73037472,Route B,On time
+haircare,60,Carrier A,9.868648921,Kolkata,Fail,2.591275473,Route C,Delay
+haircare,7,Carrier B,4.949839578,Bangalore,Fail,0.773006134,Route A,Delay
+cosmetics,21,Carrier B,10.19914051,Bangalore,Fail,0.398177187,Route C,Delay
+skincare,83,Carrier B,2.339770189,Kolkata,Pending,0.100682852,Route B,Delay
+skincare,61,Carrier C,2.773897761,Chennai,Pass,2.030069089,Route C,Delay
+skincare,52,Carrier A,3.891547916,Delhi,Fail,3.145579523,Route A,On time
+cosmetics,72,Carrier B,8.400973145,Kolkata,Pass,3.878098937,Route B,On time
+skincare,33,Carrier A,9.717574771,Mumbai,Pending,4.854068026,Route B,Delay
+haircare,11,Carrier B,4.366277502,Delhi,Pending,2.547547122,Route B,Delay
+haircare,1,Carrier C,10.04229169,Bangalore,Pending,3.691310293,Route A,Delay
+haircare,12,Carrier C,7.395833157,Mumbai,Fail,1.698112541,Route B,On time
+skincare,34,Carrier A,5.562503779,Kolkata,Fail,1.451972204,Route B,Delay
+skincare,47,Carrier B,2.979660965,Chennai,Pending,2.989000007,Route C,Delay
+skincare,60,Carrier A,4.523943124,Kolkata,Pending,0.021169821,Route A,Delay
+haircare,17,Carrier B,6.797325364,Bangalore,Pending,1.63107423,Route B,Delay
+cosmetics,75,Carrier B,7.242945942,Delhi,Pass,1.463607498,Route B,On time
+skincare,7,Carrier B,8.63205218,Bangalore,Pending,2.078750608,Route A,On time
+skincare,68,Carrier A,8.878334651,Chennai,Pass,4.231416574,Route B,Delay
+skincare,33,Carrier B,2.407951267,Delhi,Fail,3.805533379,Route C,Delay
+skincare,6,Carrier A,2.458933528,Mumbai,Pending,4.096881332,Route C,Delay
+haircare,44,Carrier B,6.508548621,Bangalore,Fail,2.779193512,Route A,On time
+cosmetics,68,Carrier B,6.943945942,Delhi,Pass,1.463607498,Route B,On time
+haircare,49,Carrier C,4.639224714,Delhi,Pending,2.547547122,Route B,Delay
+haircare,51,Carrier B,8.467049771,Mumbai,Pending,4.096881332,Route C,Delay
+cosmetics,27,Carrier B,10.19814051,Mumbai,Fail,0.815757079,Route A,On time
+skincare,83,Carrier A,7.166645291,Chennai,Pending,3.844614479,Route B,Delay
+skincare,53,Carrier C,7.527248327,Chennai,Pending,2.989000007,Route C,Delay
+haircare,1,Carrier A,5.23765465,Delhi,Fail,0.396612724,Route A,On time
+skincare,30,Carrier B,10.00528679,Kolkata,Pending,1.362387989,Route A,On time
+haircare,42,Carrier C,4.340224714,Kolkata,Fail,4.746648621,Route A,Delay
+cosmetics,65,Carrier C,7.706750953,Mumbai,Fail,2.864667838,Route B,Delay
+haircare,10,Carrier B,5.249839578,Bangalore,Fail,0.773006134,Route A,Delay
+haircare,25,Carrier B,6.615717755,Kolkata,Pending,1.907665734,Route B,Delay
+cosmetics,82,Carrier C,3.886418958,Chennai,Fail,1.374429,Route B,On time
+cosmetics,74,Carrier B,6.942945942,Delhi,Pass,1.463607498,Route B,On time
+haircare,47,Carrier B,8.468049771,Kolkata,Pending,1.362387989,Route A,On time
+skincare,62,Carrier A,4.523943124,Kolkata,Pending,0.021169821,Route A,Delay
+cosmetics,9,Carrier C,2.505621033,Delhi,Pass,2.825813985,Route A,Delay
+haircare,5,Carrier B,4.367277502,Delhi,Pending,2.547547122,Route B,Delay
+skincare,10,Carrier A,2.457933528,Bangalore,Pending,3.63284329,Route A,On time
+haircare,25,Carrier A,7.354538337,Bangalore,Pending,2.180037452,Route A,Delay
+haircare,46,Carrier C,4.339224714,Bangalore,Pending,3.213329607,Route B,Delay
+cosmetics,12,Carrier C,3.705733857,Mumbai,Pass,0.131955444,Route C,On time
+haircare,6,Carrier C,10.04229169,Bangalore,Pending,3.691310293,Route A,Delay
+haircare,57,Carrier B,6.780946626,Kolkata,Pass,3.055141818,Route B,Delay
+cosmetics,82,Carrier C,3.886418958,Chennai,Fail,0.102020755,Route C,On time
+skincare,72,Carrier C,4.381368158,Mumbai,Fail,2.853090617,Route A,Delay
+skincare,30,Carrier B,1.709801095,Chennai,Pending,2.908122169,Route A,Delay
+cosmetics,85,Carrier A,6.547860915,Delhi,Fail,4.754800805,Route B,Delay
+haircare,7,Carrier A,5.015364955,Chennai,Fail,0.045302262,Route A,On time
+cosmetics,37,Carrier C,7.592701389,Mumbai,Pass,1.874001404,Route C,On time
+haircare,43,Carrier C,4.640224714,Kolkata,Pending,2.231939111,Route A,On time
+skincare,47,Carrier A,5.238438565,Delhi,Fail,1.73037472,Route B,On time
+skincare,68,Carrier C,4.382368158,Delhi,Fail,3.145579523,Route A,On time
+cosmetics,13,Carrier B,4.769500026,Mumbai,Pass,0.333431825,Route B,On time
+cosmetics,74,Carrier C,7.577449657,Delhi,Fail,2.96262632,Route A,On time
+haircare,48,Carrier A,4.784000558,Kolkata,Fail,1.451972204,Route B,Delay
+cosmetics,24,Carrier B,9.898140508,Mumbai,Fail,0.815757079,Route A,On time
+skincare,57,Carrier C,6.880541348,Kolkata,Fail,4.911095955,Route C,On time
+skincare,35,Carrier C,7.23059514,Mumbai,Fail,3.376237835,Route A,On time
+skincare,78,Carrier B,2.039770189,Kolkata,Pending,0.100682852,Route B,Delay
+haircare,85,Carrier A,1.32527401,Kolkata,Fail,2.161253748,Route B,On time
+skincare,59,Carrier C,1.729568564,Kolkata,Fail,4.746648621,Route A,Delay
+cosmetics,28,Carrier B,7.293722597,Kolkata,Fail,0.447194015,Route A,On time
+skincare,13,Carrier A,2.757933528,Bangalore,Pending,3.63284329,Route A,On time
+cosmetics,72,Carrier B,6.942945942,Delhi,Pass,1.463607498,Route B,On time
+cosmetics,43,Carrier C,7.591701389,Mumbai,Pass,1.874001404,Route C,On time
+skincare,81,Carrier B,4.491324586,Bangalore,Pass,1.012563089,Route A,On time
+skincare,56,Carrier A,4.524943124,Kolkata,Pending,0.021169821,Route A,Delay
+skincare,67,Carrier C,6.899104901,Kolkata,Pass,1.946036119,Route A,Delay
+cosmetics,20,Carrier B,9.899140508,Mumbai,Fail,0.815757079,Route A,On time
+haircare,53,Carrier B,6.807548621,Bangalore,Pass,2.119319737,Route A,Delay
+haircare,11,Carrier A,5.014364955,Delhi,Fail,4.548919659,Route B,Delay
+haircare,88,Carrier B,8.054479262,Mumbai,Pending,4.580592619,Route C,On time
+cosmetics,29,Carrier A,9.528190317,Bangalore,Pending,2.078750608,Route A,On time
+haircare,49,Carrier C,4.639224714,Kolkata,Pending,2.231939111,Route A,On time
+skincare,71,Carrier A,9.178334651,Chennai,Pass,4.231416574,Route B,Delay
+cosmetics,66,Carrier B,1.512936837,Chennai,Fail,4.620546065,Route A,On time
+skincare,48,Carrier B,9.279750756,Kolkata,Pending,0.380573587,Route A,On time
+haircare,66,Carrier A,9.867648921,Kolkata,Fail,2.591275473,Route C,Delay
+cosmetics,70,Carrier B,8.400973145,Kolkata,Pass,3.878098937,Route B,On time
+skincare,54,Carrier B,9.278750756,Kolkata,Pending,0.380573587,Route A,On time
+skincare,24,Carrier A,1.319487571,Mumbai,Pass,0.333431825,Route B,On time
+cosmetics,35,Carrier C,5.652878044,Mumbai,Pending,3.872047681,Route A,Delay
+cosmetics,36,Carrier C,7.292701389,Mumbai,Pass,1.874001404,Route C,On time
+haircare,27,Carrier B,6.615717755,Bangalore,Pass,1.830575599,Route C,Delay
+haircare,51,Carrier B,9.160558535,Delhi,Pending,2.51117483,Route A,Delay
+haircare,92,Carrier B,2.957572139,Mumbai,Pending,0.226410361,Route B,Delay
+haircare,88,Carrier B,3.994021268,Mumbai,Pending,0.372304768,Route A,On time
+skincare,37,Carrier A,9.716574771,Mumbai,Pending,4.854068026,Route B,Delay
+haircare,47,Carrier B,9.161558535,Bangalore,Fail,0.398177187,Route C,Delay
+skincare,22,Carrier A,2.516142729,Kolkata,Fail,3.448063288,Route A,Delay
+haircare,4,Carrier A,5.53765465,Delhi,Fail,0.396612724,Route A,On time
+haircare,25,Carrier A,7.354538337,Mumbai,Pending,2.709862691,Route B,On time
+haircare,44,Carrier B,6.508548621,Kolkata,Pending,1.362387989,Route A,On time
+haircare,55,Carrier B,5.515155009,Chennai,Pass,3.219604612,Route A,Delay
+cosmetics,95,Carrier C,4.858270503,Chennai,Fail,3.541046012,Route A,On time
+cosmetics,11,Carrier B,2.348338784,Bangalore,Fail,0.398177187,Route C,Delay
+cosmetics,69,Carrier B,1.812936837,Chennai,Fail,4.620546065,Route A,On time
+cosmetics,75,Carrier C,7.877449657,Delhi,Fail,2.96262632,Route A,On time
+skincare,30,Carrier B,2.107951267,Delhi,Fail,3.805533379,Route C,Delay
+skincare,60,Carrier C,7.826248327,Bangalore,Fail,4.939255289,Route A,Delay
+cosmetics,81,Carrier C,5.28918999,Bangalore,Fail,2.779193512,Route A,On time
+skincare,31,Carrier B,2.407951267,Delhi,Fail,3.805533379,Route C,Delay
+skincare,37,Carrier A,5.862503779,Kolkata,Fail,1.451972204,Route B,Delay
+skincare,82,Carrier C,8.673211211,Kolkata,Pass,1.727313928,Route B,On time
+haircare,22,Carrier B,8.63133887,Mumbai,Pending,0.722204402,Route A,Delay
+haircare,55,Carrier B,1.611023756,Chennai,Fail,0.346027291,Route B,Delay
+cosmetics,21,Carrier B,10.19914051,Mumbai,Fail,0.815757079,Route A,On time
+skincare,31,Carrier A,5.863503779,Kolkata,Fail,1.451972204,Route B,Delay
+haircare,36,Carrier C,9.030340423,Kolkata,Fail,4.367470538,Route A,On time
+haircare,48,Carrier B,6.507548621,Bangalore,Pass,2.119319737,Route A,Delay
+skincare,23,Carrier B,9.70628679,Chennai,Fail,0.346027291,Route B,Delay
+skincare,34,Carrier B,5.774263744,Chennai,Fail,0.045302262,Route A,On time
+haircare,22,Carrier A,7.054538337,Bangalore,Pending,2.180037452,Route A,Delay
+cosmetics,88,Carrier B,9.235931437,Mumbai,Pending,0.613326899,Route B,On time
+haircare,63,Carrier A,9.567648921,Kolkata,Fail,2.591275473,Route C,Delay
+haircare,2,Carrier C,9.741291689,Bangalore,Pending,3.691310293,Route A,Delay
+cosmetics,58,Carrier C,7.407750953,Kolkata,Pending,0.021169821,Route A,Delay
+skincare,94,Carrier A,4.742635883,Chennai,Fail,3.646450865,Route C,Delay
+skincare,71,Carrier C,4.586353468,Mumbai,Pending,0.226410361,Route B,Delay
+cosmetics,69,Carrier B,8.100973145,Kolkata,Pass,3.878098937,Route B,On time
+skincare,64,Carrier C,6.599104901,Kolkata,Pass,1.946036119,Route A,Delay
+haircare,9,Carrier B,4.370955837,Chennai,Pending,3.648610593,Route B,On time
+skincare,44,Carrier C,3.133184679,Chennai,Fail,2.849662199,Route B,On time
+haircare,48,Carrier B,5.216155009,Kolkata,Fail,2.161253748,Route B,On time
+cosmetics,3,Carrier B,6.038883769,Mumbai,Pending,4.096881332,Route C,Delay
+cosmetics,29,Carrier A,2.924857601,Kolkata,Pending,1.342291563,Route A,On time
+skincare,79,Carrier C,1.775429714,Mumbai,Pending,4.137877049,Route C,On time
+skincare,22,Carrier B,1.45430531,Chennai,Fail,4.620546065,Route A,On time
+haircare,83,Carrier A,8.681615625,Chennai,Pass,4.843456577,Route B,Delay
+cosmetics,10,Carrier B,6.337883769,Chennai,Pending,0.018607568,Route C,Delay
+skincare,69,Carrier B,2.422039723,Bangalore,Pass,2.264405761,Route B,On time
+skincare,61,Carrier A,4.190547916,Delhi,Fail,3.145579523,Route A,On time
+cosmetics,69,Carrier C,8.549168705,Chennai,Fail,1.374429,Route B,On time
+skincare,47,Carrier B,8.979750756,Delhi,Fail,3.145579523,Route A,On time
+skincare,59,Carrier C,7.526248327,Bangalore,Fail,4.939255289,Route A,Delay
+skincare,67,Carrier C,9.148811545,Mumbai,Pass,0.131955444,Route C,On time
+skincare,48,Carrier A,9.537283061,Bangalore,Pending,1.63107423,Route B,Delay
+haircare,4,Carrier A,7.904845611,Mumbai,Fail,3.376237835,Route A,On time
+skincare,56,Carrier C,2.473897761,Chennai,Pass,2.030069089,Route C,Delay
+haircare,54,Carrier A,4.783000558,Bangalore,Pending,1.772951172,Route A,On time
+skincare,14,Carrier B,8.93105218,Mumbai,Pending,2.122471619,Route C,On time
+skincare,24,Carrier A,1.319487571,Chennai,Pass,0.646604559,Route B,On time
+cosmetics,67,Carrier B,8.100973145,Delhi,Pass,1.463607498,Route B,On time
+skincare,19,Carrier A,2.216142729,Kolkata,Fail,3.448063288,Route A,Delay
+cosmetics,12,Carrier C,2.805621033,Delhi,Pass,2.825813985,Route A,Delay
+skincare,66,Carrier B,2.723039723,Bangalore,Pass,2.264405761,Route B,On time
+haircare,56,Carrier B,1.612023756,Chennai,Fail,0.346027291,Route B,Delay
+skincare,47,Carrier B,8.979750756,Mumbai,Pending,0.613326899,Route B,On time
+haircare,48,Carrier B,9.461558535,Delhi,Pending,2.51117483,Route A,Delay
+haircare,61,Carrier B,1.494251865,Bangalore,Fail,1.983467872,Route A,On time
+haircare,23,Carrier B,6.796325364,Bangalore,Pending,0.165871627,Route C,On time
+cosmetics,84,Carrier B,9.236931437,Kolkata,Pending,1.907665734,Route B,Delay
+skincare,68,Carrier A,4.709181874,Mumbai,Pending,4.137877049,Route C,On time
+cosmetics,91,Carrier C,4.859270503,Mumbai,Pass,1.173755495,Route B,Delay
+haircare,25,Carrier B,6.615717755,Bangalore,Pass,1.830575599,Route C,Delay
+skincare,38,Carrier C,3.134184679,Chennai,Fail,2.849662199,Route B,On time
+haircare,26,Carrier B,8.63033887,Mumbai,Pending,1.21088213,Route A,On time
+skincare,80,Carrier C,8.673211211,Kolkata,Pass,1.727313928,Route B,On time
+haircare,87,Carrier A,1.32527401,Kolkata,Fail,2.161253748,Route B,On time
+cosmetics,27,Carrier B,9.929816245,Kolkata,Pending,1.907665734,Route B,Delay
+skincare,75,Carrier A,5.008181874,Mumbai,Pending,4.137877049,Route C,On time
+skincare,74,Carrier B,2.040770189,Kolkata,Pending,0.100682852,Route B,Delay
+skincare,42,Carrier C,7.52959514,Kolkata,Pending,4.213269431,Route A,On time
+skincare,59,Carrier C,2.773897761,Chennai,Pass,2.030069089,Route C,Delay
+haircare,22,Carrier B,6.315717755,Bangalore,Pass,1.830575599,Route C,Delay
+haircare,64,Carrier B,4.605103471,Kolkata,Pass,2.478771976,Route B,Delay
+skincare,61,Carrier C,4.180763303,Kolkata,Pending,1.000910619,Route A,On time
+cosmetics,81,Carrier C,5.28918999,Chennai,Fail,2.849662199,Route B,On time
+skincare,52,Carrier A,3.891547916,Delhi,Fail,0.396612724,Route A,On time
+skincare,34,Carrier B,5.774263744,Kolkata,Pending,4.213269431,Route A,On time
+cosmetics,32,Carrier C,5.352878044,Mumbai,Pending,3.872047681,Route A,Delay
+cosmetics,7,Carrier B,6.037883769,Chennai,Pending,0.018607568,Route C,Delay
+haircare,31,Carrier B,8.955528315,Chennai,Pass,4.843456577,Route B,Delay
+skincare,71,Carrier C,9.147811545,Mumbai,Pass,0.131955444,Route C,On time
+skincare,75,Carrier C,4.585353468,Delhi,Fail,0.159486315,Route C,On time
+haircare,22,Carrier B,6.315717755,Mumbai,Fail,3.376237835,Route A,On time
+skincare,99,Carrier B,7.974430708,Bangalore,Pass,1.219382224,Route B,On time
+cosmetics,18,Carrier C,3.704733857,Mumbai,Pending,2.709862691,Route B,On time
+haircare,80,Carrier A,8.381615625,Bangalore,Fail,0.773006134,Route A,Delay
+skincare,71,Carrier A,9.178334651,Kolkata,Pending,0.021169821,Route A,Delay
+haircare,69,Carrier B,4.744098864,Bangalore,Fail,2.779193512,Route A,On time
+skincare,61,Carrier C,1.729568564,Kolkata,Fail,4.746648621,Route A,Delay
+cosmetics,67,Carrier B,8.100973145,Kolkata,Pass,3.878098937,Route B,On time
+cosmetics,61,Carrier C,7.707750953,Mumbai,Fail,2.864667838,Route B,Delay
+skincare,24,Carrier B,2.108951267,Kolkata,Pending,3.797231217,Route B,Delay
+haircare,12,Carrier B,5.249839578,Bangalore,Fail,0.773006134,Route A,Delay
+cosmetics,29,Carrier B,9.929816245,Kolkata,Pending,1.907665734,Route B,Delay
+haircare,57,Carrier B,4.306103471,Delhi,Fail,3.805533379,Route C,Delay
+haircare,7,Carrier A,8.204845611,Mumbai,Fail,3.376237835,Route A,On time
+haircare,66,Carrier C,7.006432059,Chennai,Fail,4.165781795,Route A,Delay
+haircare,55,Carrier A,5.083000558,Bangalore,Pending,1.772951172,Route A,On time
+cosmetics,23,Carrier B,9.930816245,Mumbai,Pending,4.580592619,Route C,On time
+skincare,44,Carrier B,2.679660965,Chennai,Pending,2.989000007,Route C,Delay
+haircare,55,Carrier A,6.575803798,Chennai,Fail,3.693737788,Route B,Delay
+haircare,26,Carrier B,8.63033887,Chennai,Fail,4.165781795,Route A,Delay
+skincare,35,Carrier B,6.074263744,Chennai,Fail,0.045302262,Route A,On time
+haircare,32,Carrier C,9.031340423,Delhi,Fail,3.805533379,Route C,Delay
+haircare,58,Carrier B,1.194251865,Bangalore,Fail,1.983467872,Route A,On time
+cosmetics,17,Carrier C,3.404733857,Mumbai,Pending,2.709862691,Route B,On time
